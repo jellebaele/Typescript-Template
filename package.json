@@ -1,8 +1,8 @@
 {
-  "name": "authentication",
+  "name": "app_name",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "start:dev": "nodemon",
     "build": "rimraf ./build && tsc",
@@ -10,15 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jellebaele/Authentication.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jellebaele/Authentication/issues"
-  },
-  "homepage": "https://github.com/jellebaele/Authentication#readme",
   "devDependencies": {
     "@types/node": "^18.11.0",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
