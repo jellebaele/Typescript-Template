@@ -1,5 +1,5 @@
 # Typescript Template
-Typescript template including ES linting. You can fork/import/copy this project in your repository.
+Typescript template including ES linting, prettier & husky. You can fork/import/copy this project in your repository.
 
 ## Copy
 You can copy the project by running following commands in your project directory:
