@@ -8,7 +8,8 @@
     "lint": "eslint src",
     "build": "rimraf ./build && tsc",
     "start": "npm run build && node build/index.js",
-    "precommit": "npm run lint"
+    "precommit": "npm run lint",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
